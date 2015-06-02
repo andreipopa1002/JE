@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7531" systemVersion="14D131" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="JELocationViewController">
+            <connections>
+                <outlet property="currentLocationButtton" destination="qvi-5m-dL1" id="zGV-V1-mBh"/>
+                <outlet property="okButton" destination="ZnA-Cj-fKU" id="l5M-Hq-85P"/>
+                <outlet property="postCodeTextField" destination="8Ac-AH-mml" id="leE-fI-iZn"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="PostCode:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="te2-1f-I5m">
+                    <rect key="frame" x="10" y="120" width="82" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Type post code" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="8Ac-AH-mml">
+                    <rect key="frame" x="146" y="116" width="395" height="30"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <button opaque="NO" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZnA-Cj-fKU">
+                    <rect key="frame" x="551" y="109" width="44" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="44" id="e54-Kp-qNO"/>
+                        <constraint firstAttribute="height" constant="44" id="pgh-ZQ-GAx"/>
+                    </constraints>
+                    <state key="normal" title="OK">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="okButtonTapped:" destination="-1" eventType="touchUpInside" id="Pkg-SC-jDE"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qvi-5m-dL1" userLabel="CurrentLocation">
+                    <rect key="frame" x="97" y="109" width="44" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="44" id="WtS-g0-yib"/>
+                        <constraint firstAttribute="height" constant="44" id="Ywp-2b-NJg"/>
+                    </constraints>
+                    <inset key="imageEdgeInsets" minX="7" minY="7" maxX="7" maxY="7"/>
+                    <state key="normal" image="location_button">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="currentLocationButttonTapped:" destination="-1" eventType="touchUpInside" id="mF0-m7-X6q"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="ZnA-Cj-fKU" secondAttribute="trailing" constant="5" id="2aO-7a-PFp"/>
+                <constraint firstItem="ZnA-Cj-fKU" firstAttribute="centerY" secondItem="8Ac-AH-mml" secondAttribute="centerY" id="IS6-Ia-seH"/>
+                <constraint firstItem="te2-1f-I5m" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="120" id="OWD-pC-CXa"/>
+                <constraint firstItem="8Ac-AH-mml" firstAttribute="centerY" secondItem="te2-1f-I5m" secondAttribute="centerY" id="Odz-so-akU"/>
+                <constraint firstItem="8Ac-AH-mml" firstAttribute="leading" secondItem="qvi-5m-dL1" secondAttribute="trailing" constant="5" id="XaD-VA-4b2"/>
+                <constraint firstItem="qvi-5m-dL1" firstAttribute="leading" secondItem="te2-1f-I5m" secondAttribute="trailing" constant="5" id="cEK-6i-APa"/>
+                <constraint firstItem="ZnA-Cj-fKU" firstAttribute="leading" secondItem="8Ac-AH-mml" secondAttribute="trailing" constant="10" id="duo-bg-HQR"/>
+                <constraint firstItem="qvi-5m-dL1" firstAttribute="centerY" secondItem="8Ac-AH-mml" secondAttribute="centerY" id="foZ-9l-zuP"/>
+                <constraint firstItem="te2-1f-I5m" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="10" id="sag-OJ-Ib5"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="location_button" width="48" height="48"/>
+    </resources>
+</document>

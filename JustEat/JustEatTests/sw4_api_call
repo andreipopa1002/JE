@@ -1,0 +1,9433 @@
+[{
+"Id": 38176,
+"Name": "Town Chicken & Pizza",
+"Address": "272 Brixton Hill",
+"Postcode": "SW2 1HP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://townchickenandpizza-sw2.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": true,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "townchickenandpizza-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 2,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.81,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38176.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 284
+},
+{
+"Id": 12543,
+"Name": "Clapham Tandoori",
+"Address": "10 Clapham Common, Southside",
+"Postcode": "SW4 7AA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://clapham-tandoori-sw4.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": true,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "clapham-tandoori-sw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 1,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.01,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/12543.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 344
+},
+{
+"Id": 20353,
+"Name": "Beijing Noodles",
+"Address": "310a Wandsworth Bridge Road",
+"Postcode": "SW6 2UA",
+"City": "Fulham",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://beijing-noodles-sw6.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": true,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "beijing-noodles-sw6",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 3,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.74,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20353.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 813
+},
+{
+"Id": 26081,
+"Name": "The Purple Chilli Lounge",
+"Address": "384 Coldharbour Lane",
+"Postcode": "SW9 8LF",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://purple-chilli-sw9.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "purple-chilli-sw9",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 64,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.67,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26081.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 9
+},
+{
+"Id": 47300,
+"Name": "Pizza Ring",
+"Address": "88 Brixton Hill",
+"Postcode": "SW2 1QN",
+"City": "Brixton",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://kirsty.beggs10.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "kirsty.beggs10",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 113,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.78,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47300.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 9
+},
+{
+"Id": 26965,
+"Name": "Bengal Pavillion Indian Home Dining",
+"Address": "58 Morrish Road",
+"Postcode": "SW2 4EG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 86,
+"Name": "Drinks",
+"SeoName": null
+}
+],
+"Url": "http://bengalpavillion-sw2.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "bengalpavillion-sw2",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 65,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.67,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26965.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 82
+},
+{
+"Id": 48718,
+"Name": "Rooster Spot",
+"Address": "89 Balham High Road",
+"Postcode": "SW12 9AP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://roosterspot-sw129ap.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "roosterspot-sw129ap",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 123,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 2.27,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48718.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 5
+},
+{
+"Id": 47943,
+"Name": "Pizza & Chicken Palace",
+"Address": "67 Wandworth High Street",
+"Postcode": "SW18 2pt",
+"City": "Wandsworth",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+}
+],
+"Url": "http://pizzaandchickenpalace-sw18.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "pizzaandchickenpalace-sw18",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 53,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.8,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47943.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 44
+},
+{
+"Id": 42043,
+"Name": "Blessed West Indian Takeaway",
+"Address": "203 Coldharbour Lane",
+"Postcode": "SW9 8RZ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 76,
+"Name": "Caribbean",
+"SeoName": null
+},
+{
+"Id": 38,
+"Name": "Jamaican",
+"SeoName": null
+}
+],
+"Url": "http://blessedwestindian-sw9.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "blessedwestindian-sw9",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 99,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.16,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42043.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 94
+},
+{
+"Id": 2431,
+"Name": "Chicken & Pizza Palace",
+"Address": "332 Kennington Park Road",
+"Postcode": "SE11 4PP",
+"City": "Lambeth",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://chicken-palace.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "chicken-palace",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 76,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.56,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2431.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 936
+},
+{
+"Id": 18261,
+"Name": "Herbies Pizza",
+"Address": "113a Kennington Road",
+"Postcode": "SE11 6SF",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://herbiespizza-se11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "herbiespizza-se11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 52,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.81,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18261.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 230
+},
+{
+"Id": 14879,
+"Name": "Indian Express",
+"Address": "845 Garratt Lane Wandsworth",
+"Postcode": "SW17 0PG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://indianexpress.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "indianexpress",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 21,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.23,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/14879.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 746
+},
+{
+"Id": 18823,
+"Name": "Indian Ocean",
+"Address": "214 Trinity Road, Wandsworth Common",
+"Postcode": "SW17 7HP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://indianocean-sw17.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "indianocean-sw17",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 45,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.88,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18823.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 26
+},
+{
+"Id": 28891,
+"Name": "PFC - Perfect Fried Chicken",
+"Address": "219 Camberwell New Road",
+"Postcode": "SE5 0HG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+}
+],
+"Url": "http://pfc-peri-peri-se5.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "pfc-peri-peri-se5",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 91,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.39,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28891.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 279
+},
+{
+"Id": 28584,
+"Name": "Ooshii Sushi",
+"Address": "3 East Street",
+"Postcode": "SE17 2DJ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+},
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+}
+],
+"Url": "http://ooshiisushi-se17.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "ooshiisushi-se17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 119,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.37,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28584.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 147
+},
+{
+"Id": 29086,
+"Name": "Pizza Da Vinci (Wood Fired)",
+"Address": "103d Lavender Hill, Battersea",
+"Postcode": "SW11 5QL",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://pizza-da-vinci-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "pizza-da-vinci-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 56,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.73,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29086.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 38
+},
+{
+"Id": 30194,
+"Name": "Village Tandoori",
+"Address": "71 East Dulwich Grove",
+"Postcode": "SE22 8PR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://village-tandoori-se22.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "village-tandoori-se22",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 22,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.23,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/30194.gif"
+}
+],
+"Deals": [
+{
+"Description": "30% off when you spend £20",
+"DiscountPercent": "30",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 814
+},
+{
+"Id": 26962,
+"Name": "Cafe Taj",
+"Address": "80 Fenchurch Street",
+"Postcode": "EC3M 4BT",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 86,
+"Name": "Drinks",
+"SeoName": null
+}
+],
+"Url": "http://cafetaj-ec3m.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "cafetaj-ec3m",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 120,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.06,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26962.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 22
+},
+{
+"Id": 22546,
+"Name": "Tops Pizza",
+"Address": "163 Battersea Park Road",
+"Postcode": "SW8 4BU",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 84,
+"Name": "Desserts",
+"SeoName": null
+}
+],
+"Url": "http://topspizza-sw8.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "topspizza-sw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 111,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.91,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22546.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 33
+},
+{
+"Id": 9988,
+"Name": "Palace Spice",
+"Address": "139 Lavender Hill",
+"Postcode": "SW11 5QJ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 50,
+"Name": "Bangladeshi",
+"SeoName": null
+}
+],
+"Url": "http://palacespice.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "palacespice",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 26,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.21,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/9988.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 80
+},
+{
+"Id": 44530,
+"Name": "Taste of St Catherines",
+"Address": "104 Mitcham Lane",
+"Postcode": "SW16 6NR",
+"City": "Mitcham",
+"CuisineTypes": [
+{
+"Id": 38,
+"Name": "Jamaican",
+"SeoName": null
+},
+{
+"Id": 76,
+"Name": "Caribbean",
+"SeoName": null
+}
+],
+"Url": "http://tasteofstcatherines-ws16.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "tasteofstcatherines-ws16",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 54,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.78,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44530.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 69
+},
+{
+"Id": 28517,
+"Name": "Peri Peri Grill",
+"Address": "225 Camberwell New Road",
+"Postcode": "SE5 0TH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+}
+],
+"Url": "http://periperigrill-se5.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "periperigrill-se5",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 90,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.4,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28517.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 349
+},
+{
+"Id": 26594,
+"Name": "Luv Peri Peri",
+"Address": "53 Camberwell Church Street",
+"Postcode": "SE5 8TR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+}
+],
+"Url": "http://luvperiperi-se5.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "luvperiperi-se5",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 93,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.37,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26594.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 377
+},
+{
+"Id": 26610,
+"Name": "Khans Indian Home Dining",
+"Address": "53 Camberwell Church Street",
+"Postcode": "SE5 8TR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://khansindianhomedining-se5.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "khansindianhomedining-se5",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 49,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.85,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26610.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 85
+},
+{
+"Id": 5349,
+"Name": "Bugatti Pizzeria",
+"Address": "145-147 Wandsworth High Street",
+"Postcode": "SW18 4JB",
+"City": "Wandsworth",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://bugatti-pizzeria.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "bugatti-pizzeria",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 36,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.04,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5349.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 814
+},
+{
+"Id": 39226,
+"Name": "New Royal China",
+"Address": "151 Streatham High Road",
+"Postcode": "SW16 6EG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://new-royal-china-sw16-1.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "new-royal-china-sw16-1",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 66,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.67,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39226.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 53
+},
+{
+"Id": 41006,
+"Name": "Vino E Olive Authentic Wood Fire Oven Pizzeria",
+"Address": "122 Wandsworth High Street",
+"Postcode": "SW18 4JP",
+"City": "Wandsworth",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://vinoeolive-sw18.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "vinoeolive-sw18",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 82,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.51,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41006.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 44
+},
+{
+"Id": 29708,
+"Name": "Toulouse Lautrec",
+"Address": "140 Newington Butts",
+"Postcode": "SE11 4RN",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 24,
+"Name": "French",
+"SeoName": null
+},
+{
+"Id": 88,
+"Name": "Gourmet",
+"SeoName": null
+}
+],
+"Url": "http://toulouselautrec-se11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "toulouselautrec-se11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 11,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.74,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29708.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 52
+},
+{
+"Id": 40034,
+"Name": "King Rooster",
+"Address": "2A Westbury Parade",
+"Postcode": "SW12 9DZ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://kingtrooster-sw12.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "kingtrooster-sw12",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 108,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40034.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 6
+},
+{
+"Id": 50385,
+"Name": "Rax Pizza",
+"Address": "130 Wandsworth High Street",
+"Postcode": "SW18 4JP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://rax-pizza-wandsworth.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "rax-pizza-wandsworth",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 17,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.33,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/50385.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 15
+},
+{
+"Id": 38697,
+"Name": "China House",
+"Address": "23 Lavender Hill",
+"Postcode": "SW11 5QW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://chinahouse-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "chinahouse-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 75,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.59,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38697.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 515
+},
+{
+"Id": 50248,
+"Name": "China Town @ Yumea",
+"Address": "250 Balham High Road",
+"Postcode": "SW17 7AW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://china-town--yumea-tooting-broadway.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "china-town--yumea-tooting-broadway",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 80,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.52,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/50248.gif"
+}
+],
+"Deals": [
+{
+"Description": "25% off when you spend £25",
+"DiscountPercent": "25",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 45
+},
+{
+"Id": 50453,
+"Name": "London Pizza Experts",
+"Address": "42 Battersea Park Road",
+"Postcode": "SW11 4JP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://london-pizza-experts-clapham.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": true,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "london-pizza-experts-clapham",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 9,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.63,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/50453.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 49
+},
+{
+"Id": 48362,
+"Name": "Big Boy Pizza",
+"Address": "52 Battersea Park Road",
+"Postcode": "SW11 4JP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://bigboypizza-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "bigboypizza-sw11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 12,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.52,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48362.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 95
+},
+{
+"Id": 48577,
+"Name": "Masala Kitchen",
+"Address": "103 East Hill, Wandsworth",
+"Postcode": "SW18 2QB",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 89,
+"Name": "Healthy",
+"SeoName": null
+}
+],
+"Url": "http://masala-kitchen-sw18.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "masala-kitchen-sw18",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 24,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.23,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48577.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 145
+},
+{
+"Id": 50689,
+"Name": "Tadashi Japanese Sushi @ Hungry Bears",
+"Address": "7-9 Newington Causeway",
+"Postcode": "SE1 6ED",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://tadashi-japanese-sushi--hungry-bears-southwark.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": true,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "tadashi-japanese-sushi--hungry-bears-southwark",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 10,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.4,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/50689.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 16
+},
+{
+"Id": 5451,
+"Name": "Tian Tsin",
+"Address": "5 Ramsden Road",
+"Postcode": "SW12 8QX",
+"City": "Balham",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://tian-tsin.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "tian-tsin",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 67,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.66,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5451.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 445
+},
+{
+"Id": 18830,
+"Name": "Jasmine Garden SW18",
+"Address": "179 Wandsworth High Street",
+"Postcode": "SW18 4JE",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://jasminegarden-sw18.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "jasminegarden-sw18",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 88,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.41,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18830.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 627
+},
+{
+"Id": 17645,
+"Name": "Red Planet Pizza SW18",
+"Address": "179 Wandsworth High Street",
+"Postcode": "SW18 4JE",
+"City": "Wandsworth",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://RedPlanetPizzaSW18.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "RedPlanetPizzaSW18",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 98,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.19,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17645.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 101
+},
+{
+"Id": 48081,
+"Name": "Red Planet Pizza SE1",
+"Address": "33 Bartholomew Street",
+"Postcode": "SE1 4AL",
+"City": "South East London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://red-planet-pizza-se1.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "red-planet-pizza-se1",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 118,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.38,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48081.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 7
+},
+{
+"Id": 8904,
+"Name": "Beijing Inn",
+"Address": "Bank Buildings Mitcham Lane",
+"Postcode": "SW16 6NG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://beijing-inn-sw16.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "beijing-inn-sw16",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 97,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.21,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/8904.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 70
+},
+{
+"Id": 4661,
+"Name": "Pizza GoGo",
+"Address": "378 Upper Richmond Road West",
+"Postcode": "SW14 7JU",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 86,
+"Name": "Drinks",
+"SeoName": null
+}
+],
+"Url": "http://pizzagogo-sw14.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "pizzagogo-sw14",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 92,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.37,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/4661.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 739
+},
+{
+"Id": 30916,
+"Name": "Dollar Chicken & Ribs",
+"Address": "238 Coldharbour lane",
+"Postcode": "SW9 8SD",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://dollarschickenandribs-sw9.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "dollarschickenandribs-sw9",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 28,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.2,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/30916.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 18
+},
+{
+"Id": 10705,
+"Name": "Mumbai 2 Go",
+"Address": "179 Garratt Lane",
+"Postcode": "SW18 4DP",
+"City": "Wandsworth",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://mumbai2gosw18.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "mumbai2gosw18",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 16,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.35,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/10705.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1654
+},
+{
+"Id": 50834,
+"Name": "Regano Pizza",
+"Address": "11 North Street",
+"Postcode": "SW4 0HN",
+"City": "Clapham",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://regano-pizza-sw4.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": true,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "regano-pizza-sw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 4,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.67,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/50834.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1
+},
+{
+"Id": 9599,
+"Name": "Taste of India",
+"Address": "334 Kennington Road",
+"Postcode": "SE11 4LD",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://taste-of-india-se11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "taste-of-india-se11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 34,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.09,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/9599.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 168
+},
+{
+"Id": 18042,
+"Name": "Francino Pizza and Chicken",
+"Address": "209 Streatham High Road",
+"Postcode": "SW16 6EG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://FrancinoPizzaAndChickenSW16.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "FrancinoPizzaAndChickenSW16",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 81,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.51,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18042.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 232
+},
+{
+"Id": 2513,
+"Name": "Mr. Ma",
+"Address": "150a Newington Butts",
+"Postcode": "SE11 4RN",
+"City": "Southwark",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 54,
+"Name": "Korean ",
+"SeoName": null
+}
+],
+"Url": "http://mr-ma.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "mr-ma",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 77,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.56,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2513.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 446
+},
+{
+"Id": 48080,
+"Name": "Jasmine Garden SE1",
+"Address": "33 Bartholomew Street",
+"Postcode": "SE1 4AL",
+"City": "South East London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://jasmine-garden-se1.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "jasmine-garden-se1",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 117,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.43,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48080.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 66
+},
+{
+"Id": 17294,
+"Name": "Pizza Man",
+"Address": "2 Morrish Road",
+"Postcode": "SW2 4EH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://pizzamansw2.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "pizzamansw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 69,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.65,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17294.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 27
+},
+{
+"Id": 1747,
+"Name": "The Oval Tandoori",
+"Address": "64a Brixton Road",
+"Postcode": "SW9 6BP",
+"City": "Lambeth",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 50,
+"Name": "Bangladeshi",
+"SeoName": null
+}
+],
+"Url": "http://the-oval-tandoori.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "the-oval-tandoori",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 83,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.49,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1747.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 43
+},
+{
+"Id": 14392,
+"Name": "Khans",
+"Address": "159 Lavender Hill",
+"Postcode": "SW11 5QH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://khanssw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "khanssw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 87,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.43,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/14392.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 7
+},
+{
+"Id": 1309,
+"Name": "Morley Tandoori",
+"Address": "69 Moreley Street",
+"Postcode": "SE1 7QZ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://morleytandoori.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "morleytandoori",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 94,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.29,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1309.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 660
+},
+{
+"Id": 36397,
+"Name": "Tiffin Grill",
+"Address": "6 Trinity Street",
+"Postcode": "SE1 1DB",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 89,
+"Name": "Healthy",
+"SeoName": null
+}
+],
+"Url": "http://tiffingrill-se1.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "tiffingrill-se1",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 106,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.03,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36397.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 39
+},
+{
+"Id": 371,
+"Name": "Thames Tandoori",
+"Address": "172 Battersea Park Road",
+"Postcode": "SW11 4ND",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 2,
+"Name": "English",
+"SeoName": null
+}
+],
+"Url": "http://thamestandoori.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "thamestandoori",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 47,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.86,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/371.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 326
+},
+{
+"Id": 6625,
+"Name": "Basil & Pimento Italian",
+"Address": "83 Battersea Rise",
+"Postcode": "SW11 1HW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://basil-pimento-italian.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "basil-pimento-italian",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 105,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.06,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/6625.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 152
+},
+{
+"Id": 19707,
+"Name": "Planet Pizza SW11",
+"Address": "155 Battersea High Street",
+"Postcode": "SW11 3JS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://PlanetPizza-SW11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "PlanetPizza-SW11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 109,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.98,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19707.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 14
+},
+{
+"Id": 29380,
+"Name": "Masaki Sushi",
+"Address": "179 Camberwell Road",
+"Postcode": "SE5 0HB",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+},
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+}
+],
+"Url": "http://maksakisushi-se5.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "maksakisushi-se5",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 114,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.55,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29380.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 131
+},
+{
+"Id": 27550,
+"Name": "Taste of Asia",
+"Address": "18 Upper Green East, Mitcham",
+"Postcode": "CR4 2PB",
+"City": "Surrey",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://taste-of-asia-cr4.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "taste-of-asia-cr4",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 14,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.46,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27550.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 624
+},
+{
+"Id": 32324,
+"Name": "New Century",
+"Address": "56 Stockwell Green",
+"Postcode": "SW9 9HU",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://new-century0sw9.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "new-century0sw9",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 85,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.46,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/32324.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 79
+},
+{
+"Id": 35626,
+"Name": "Vauxhall Tandoori",
+"Address": "137b South Lambeth Road",
+"Postcode": "SW8 1XB",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 50,
+"Name": "Bangladeshi",
+"SeoName": null
+}
+],
+"Url": "http://vauxhalltandoorisw8.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "vauxhalltandoorisw8",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 39,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.99,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35626.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £15",
+"DiscountPercent": "20",
+"QualifyingPrice": "15.00"
+}
+],
+"NumberOfRatings": 95
+},
+{
+"Id": 18827,
+"Name": "Mr Chinese",
+"Address": "129 South Lambeth Road",
+"Postcode": "SW8 1XA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://mrchinese-sw8.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "mrchinese-sw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 100,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.14,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18827.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 371
+},
+{
+"Id": 34415,
+"Name": "Chicago Pizza",
+"Address": "129 South Lambeth Road",
+"Postcode": "SW8 1XB",
+"City": "Vauxhall",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://chicago-pizza-sw8.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "chicago-pizza-sw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 95,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.25,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34415.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 123
+},
+{
+"Id": 25496,
+"Name": "The Oregano",
+"Address": "15 Tulse Hill, Brixton",
+"Postcode": "SW2 2TH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://the-oregano-sw2.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "the-oregano-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 103,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.11,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25496.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 78
+},
+{
+"Id": 17345,
+"Name": "Noiya",
+"Address": "62 Lavender Hill London",
+"Postcode": "SW11 5RQ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://noiya.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "noiya",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 33,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.16,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17345.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 123
+},
+{
+"Id": 37946,
+"Name": "Chilli Lounge",
+"Address": "7 Hopton Parade",
+"Postcode": "SW16 6EP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://chillilounge-sw16.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "chillilounge-sw16",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 13,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.47,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/37946.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 91
+},
+{
+"Id": 1310,
+"Name": "Spice Fusion",
+"Address": "807 Wandsworth Road",
+"Postcode": "SW8 3JH",
+"City": "Clapham",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 89,
+"Name": "Healthy",
+"SeoName": null
+}
+],
+"Url": "http://spice-infused-SW8.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "spice-infused-SW8",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 20,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.24,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1310.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 1398
+},
+{
+"Id": 42304,
+"Name": "China Cook",
+"Address": "841 Garratt Lane",
+"Postcode": "SW17 0PG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://chinacook-sw17.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "chinacook-sw17",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 23,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.23,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42304.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 236
+},
+{
+"Id": 45216,
+"Name": "La Pomodoro",
+"Address": "264 Brixton Road",
+"Postcode": "SW9 6AQ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://lapomodoro-sw9.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "lapomodoro-sw9",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 38,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.03,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/45216.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 97
+},
+{
+"Id": 33096,
+"Name": "Dixi's Piri Piri",
+"Address": "130 Wandsworth High Street",
+"Postcode": "SW18 4JP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+},
+{
+"Id": 58,
+"Name": "Portuguese",
+"SeoName": null
+}
+],
+"Url": "http://dixipiripiri-sw18.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "dixipiripiri-sw18",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 35,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.05,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/33096.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 471
+},
+{
+"Id": 8886,
+"Name": "Yum Yum",
+"Address": "28 Denbigh Street",
+"Postcode": "SW1V 2ER",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 55,
+"Name": "Malaysian ",
+"SeoName": null
+}
+],
+"Url": "http://yumyum-sw1v.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "yumyum-sw1v",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 110,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.92,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/8886.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1026
+},
+{
+"Id": 47823,
+"Name": "Fez & Bar-B-Q",
+"Address": "292 Brixton Road",
+"Postcode": "SW9 6AG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 25,
+"Name": "Turkish",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://fezandbarbq-sw9.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "fezandbarbq-sw9",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 18,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.27,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47823.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 44
+},
+{
+"Id": 4741,
+"Name": "New Dewaniam",
+"Address": "225A Camberwell New Road",
+"Postcode": "SE5 0TH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 86,
+"Name": "Drinks",
+"SeoName": null
+}
+],
+"Url": "http://new-dewaniam.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "new-dewaniam",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 41,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.92,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/4741.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1693
+},
+{
+"Id": 47643,
+"Name": "Gourmet Fresh Pizza",
+"Address": "149 North End Road",
+"Postcode": "W14 9NH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://gourmetfreshpizza-w14.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "gourmetfreshpizza-w14",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 29,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.19,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47643.gif"
+}
+],
+"Deals": [
+{
+"Description": "30% off when you spend £40",
+"DiscountPercent": "30",
+"QualifyingPrice": "40.00"
+}
+],
+"NumberOfRatings": 165
+},
+{
+"Id": 47843,
+"Name": "Napoli Pizza",
+"Address": "103B Lavender Hill",
+"Postcode": "SW11 5QW",
+"City": "Surrey",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://napolipizza-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "napolipizza-sw11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 25,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.22,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47843.gif"
+}
+],
+"Deals": [
+{
+"Description": "30% off when you spend £40",
+"DiscountPercent": "30",
+"QualifyingPrice": "40.00"
+}
+],
+"NumberOfRatings": 155
+},
+{
+"Id": 10948,
+"Name": "Chicken 2 Go",
+"Address": "2a York Road",
+"Postcode": "SW11 3QA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 22,
+"Name": "American",
+"SeoName": null
+},
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+}
+],
+"Url": "http://chickentogo-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Manual Intervention - Onlined",
+"UniqueName": "chickentogo-sw11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 59,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.7,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/10948.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 145
+},
+{
+"Id": 39308,
+"Name": "Pizza Pizzante",
+"Address": "23 Lavender Hill",
+"Postcode": "SW11 5QW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://pizza-pizzante-sw11-1.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "pizza-pizzante-sw11-1",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 37,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.03,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39308.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 117
+},
+{
+"Id": 14941,
+"Name": "Pizza King",
+"Address": "60 Brixton Road",
+"Postcode": "SW9 6BS",
+"City": "Brixton",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://pizzakingsw9.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "pizzakingsw9",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 42,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.91,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/14941.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 252
+},
+{
+"Id": 12297,
+"Name": "Kai Hung Chinese Food",
+"Address": "88 Railton Road",
+"Postcode": "SE24 0LD",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://kai-hung-chinese-food.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "kai-hung-chinese-food",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 51,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.81,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/12297.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 534
+},
+{
+"Id": 35733,
+"Name": "Cheemc",
+"Address": "310 Walworth Road",
+"Postcode": "SE17 2NA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://cheemc-se17.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "cheemc-se17",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 122,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 2.78,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35733.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 6
+},
+{
+"Id": 38577,
+"Name": "Pizza Inn",
+"Address": "57 Clapham Park Road",
+"Postcode": "SW4 7EE",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://pizzainn-sw4.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "pizzainn-sw4",
+"IsCloseBy": true,
+"IsHalal": true,
+"DefaultDisplayRank": 8,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.7,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38577.gif"
+}
+],
+"Deals": [
+{
+"Description": "25% off when you spend £20",
+"DiscountPercent": "25",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 35
+},
+{
+"Id": 4843,
+"Name": "Pizza Hot Line",
+"Address": "97 Falcon Road",
+"Postcode": "SW11 2PF",
+"City": "Battersea",
+"CuisineTypes": [
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://pizza-hot-line.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "pizza-hot-line",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 62,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.68,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/4843.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 167
+},
+{
+"Id": 31621,
+"Name": "Marina Fish, Chips & Kebabs",
+"Address": "422a - 424 Streatham High Road",
+"Postcode": "SW16 3SN",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+},
+{
+"Id": 80,
+"Name": "Fish & Chips",
+"SeoName": null
+}
+],
+"Url": "http://marinafishandchips-sw16.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "marinafishandchips-sw16",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 96,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.23,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/31621.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 127
+},
+{
+"Id": 34814,
+"Name": "Oregano Leaf Pizzeria",
+"Address": "44 Camberwell Church Street",
+"Postcode": "SE5 8QZ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://organoleafpizzeria-se5.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "organoleafpizzeria-se5",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 84,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.47,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34814.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 444
+},
+{
+"Id": 5920,
+"Name": "Bombay Inn",
+"Address": "220 Brixton Hill",
+"Postcode": "SW2 1HE",
+"City": "Brixton",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://bombay-inn.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "bombay-inn",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 31,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.16,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5920.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 180
+},
+{
+"Id": 27397,
+"Name": "Battersea Fish Bar",
+"Address": "295 Battersea Park Road",
+"Postcode": "SW11 4LX",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 80,
+"Name": "Fish & Chips",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://batterseafishbar-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Manual Intervention - Onlined",
+"UniqueName": "batterseafishbar-sw11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 79,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.52,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27397.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 244
+},
+{
+"Id": 32428,
+"Name": "Masala Dubba",
+"Address": "6 Trinity Street",
+"Postcode": "SE1 1DB",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://masaladubba-se1.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "masaladubba-se1",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 19,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.25,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/32428.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 187
+},
+{
+"Id": 23307,
+"Name": "MexicanFresh",
+"Address": "Unit 23, 55 Weir Road",
+"Postcode": "SW19 8UG",
+"City": "Wimbledon",
+"CuisineTypes": [
+{
+"Id": 23,
+"Name": "Mexican",
+"SeoName": null
+},
+{
+"Id": 56,
+"Name": "Brazilian food",
+"SeoName": null
+}
+],
+"Url": "http://mexicanfresh-sw19.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "mexicanfresh-sw19",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 70,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.64,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23307.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1177
+},
+{
+"Id": 25268,
+"Name": "Bengal Spice",
+"Address": "13 Lansdowne Way",
+"Postcode": "SW8 1HL",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://bengalspice-sw8.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "bengalspice-sw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 30,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.18,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25268.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £18",
+"DiscountPercent": "20",
+"QualifyingPrice": "18.00"
+}
+],
+"NumberOfRatings": 122
+},
+{
+"Id": 18654,
+"Name": "The Gaylord",
+"Address": "44 Battersea Rise",
+"Postcode": "SW11 1EE",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://the-gaylord-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "the-gaylord-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 63,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.67,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18654.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £21",
+"DiscountPercent": "20",
+"QualifyingPrice": "21.00"
+}
+],
+"NumberOfRatings": 49
+},
+{
+"Id": 3861,
+"Name": "Pizza Hotline",
+"Address": "157 Dulwich Road Herne Hill",
+"Postcode": "SE24 0NG",
+"City": "Dulwich",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://pizza-hotline.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "pizza-hotline",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 55,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.77,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/3861.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 240
+},
+{
+"Id": 21467,
+"Name": "Roosters Piri Piri",
+"Address": "14 Upper Tooting Road",
+"Postcode": "SW17 7PG",
+"City": "Tooting",
+"CuisineTypes": [
+{
+"Id": 22,
+"Name": "American",
+"SeoName": null
+}
+],
+"Url": "http://roostersperiperi-sw17.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "roostersperiperi-sw17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 60,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.7,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/21467.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 307
+},
+{
+"Id": 9958,
+"Name": "Curry Paradise",
+"Address": "87-89 Brixton Hill, Brixton",
+"Postcode": "SW2 1AA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://curryparadise-sw2.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "curryparadise-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 46,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.87,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/9958.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 191
+},
+{
+"Id": 2882,
+"Name": "Masaledar Delivery",
+"Address": "121 Upper Tooting Road",
+"Postcode": "SW17 7TJ",
+"City": "Tooting",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 37,
+"Name": "Pakistani",
+"SeoName": null
+}
+],
+"Url": "http://masaledardelivery-sw17.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "masaledardelivery-sw17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 112,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.88,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2882.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 320
+},
+{
+"Id": 36398,
+"Name": "Kebab Centre",
+"Address": "579 Battersea Park Road",
+"Postcode": "SW11 3BH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+},
+{
+"Id": 78,
+"Name": "Burgers",
+"SeoName": null
+}
+],
+"Url": "http://kebab-centre-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "kebab-centre-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 104,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.1,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36398.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 77
+},
+{
+"Id": 24276,
+"Name": "The Golden Pan Pizza Co",
+"Address": "240 Railton Road",
+"Postcode": "SE24 0JT",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 78,
+"Name": "Burgers",
+"SeoName": null
+}
+],
+"Url": "http://thegoldenpanpizzaco-se24.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Manual Intervention - Onlined",
+"UniqueName": "thegoldenpanpizzaco-se24",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 124,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 1.78,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/24276.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 3
+},
+{
+"Id": 17339,
+"Name": "Tops Express Pizza",
+"Address": "116 Tooting High Street",
+"Postcode": "SW17 0RR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://TopsExpressPizzaSW17.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "TopsExpressPizzaSW17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 48,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.85,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17339.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 179
+},
+{
+"Id": 30172,
+"Name": "Godfather Pizza Wood Oven",
+"Address": "152 Norwood Road",
+"Postcode": "SE27 9AZ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://godfather-pizza-se27.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "godfather-pizza-se27",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 89,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.41,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/30172.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 51
+},
+{
+"Id": 370,
+"Name": "Toscana Pizzeria",
+"Address": "127a Lavender Hill",
+"Postcode": "SW11 5QJ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://toscana.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "toscana",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 44,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.9,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/370.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 491
+},
+{
+"Id": 17281,
+"Name": "Dream Pizza",
+"Address": "82 Walworth Road",
+"Postcode": "SE1 6SW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://dreampizza.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "dreampizza",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 116,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.47,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17281.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 20
+},
+{
+"Id": 22547,
+"Name": "Tops Pizza",
+"Address": "260 Streatham Road",
+"Postcode": "SW16 1BU",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://topspizza-sw16.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "topspizza-sw16",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 115,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.52,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22547.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 18
+},
+{
+"Id": 40268,
+"Name": "The Royal Grill House",
+"Address": "310 Walworth Road",
+"Postcode": "SE17 2NA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 118,
+"Name": "Grill",
+"SeoName": null
+},
+{
+"Id": 86,
+"Name": "Drinks",
+"SeoName": null
+}
+],
+"Url": "http://theroyalgrillhousese17.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "theroyalgrillhousese17",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 121,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 2.85,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40268.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 33
+},
+{
+"Id": 37974,
+"Name": "Peri Peri Lounge",
+"Address": "18 Upper Green East",
+"Postcode": "CR4 2PB",
+"City": "Surrey",
+"CuisineTypes": [
+{
+"Id": 118,
+"Name": "Grill",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://peri-peri-lounge-cr4.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "peri-peri-lounge-cr4",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 71,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.64,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/37974.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 182
+},
+{
+"Id": 20395,
+"Name": "Golden Curry",
+"Address": "131 Clapham High Street",
+"Postcode": "SW4 7SS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://goldencurry-sw4.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "goldencurry-sw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 7,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.92,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20395.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 13
+},
+{
+"Id": 17279,
+"Name": "Ivory Arch",
+"Address": "80 Walworth Road",
+"Postcode": "SE1 6SW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://ivoryarchse1.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "ivoryarchse1",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 107,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.02,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17279.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 44
+},
+{
+"Id": 6206,
+"Name": "Maharani",
+"Address": "117 Clapham High Street",
+"Postcode": "SW4 7TB",
+"City": "Lambeth",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://maharani-clapham.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "maharani-clapham",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 6,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.06,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/6206.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 45
+},
+{
+"Id": 10059,
+"Name": "Camberwell Tandoori",
+"Address": "117 Wyndnam Road",
+"Postcode": "SE5 0UB",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+}
+],
+"Url": "http://camberwell-tandoori-se5.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "camberwell-tandoori-se5",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 32,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.16,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/10059.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 436
+},
+{
+"Id": 35216,
+"Name": "Rufies",
+"Address": "15 Clapham High Street",
+"Postcode": "SW4 7TS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://rufies-sw4.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "rufies-sw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 5,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 6,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35216.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 2
+},
+{
+"Id": 1166,
+"Name": "The Chutney",
+"Address": "15 Norwood Road, Herne Hill",
+"Postcode": "SE24 9AA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://thechutney.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "thechutney",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 57,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.72,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1166.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £18",
+"DiscountPercent": "20",
+"QualifyingPrice": "18.00"
+}
+],
+"NumberOfRatings": 175
+},
+{
+"Id": 23757,
+"Name": "Sizzlerz 24/7",
+"Address": "7 Hopton Parade Streatham High Street",
+"Postcode": "SW16 6EP",
+"City": "Streatham",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://sizzlerz247-sw16.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "sizzlerz247-sw16",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 68,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.66,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23757.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 455
+},
+{
+"Id": 22886,
+"Name": "Olive 3 Pizza",
+"Address": "218 Battersea Park Road",
+"Postcode": "SW11 4ND",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://Olive3pizza-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "Olive3pizza-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 43,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.91,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22886.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 202
+},
+{
+"Id": 1079,
+"Name": "Tutto Tucci",
+"Address": "195 St. Johns Hill",
+"Postcode": "SW11 1TH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://tuttotuccisw6.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "tuttotuccisw6",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 86,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.44,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1079.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 209
+},
+{
+"Id": 215,
+"Name": "Pizza Go Go SW8",
+"Address": "703 Wandsworth Road",
+"Postcode": "SW8 3JF",
+"City": "Wandsworth",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://pizzagogosw8.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Manual Intervention - Onlined",
+"UniqueName": "pizzagogosw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 72,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.63,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/215.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 234
+},
+{
+"Id": 14041,
+"Name": "Balti Kitchen",
+"Address": "63 Falcon Road",
+"Postcode": "SW11 2PG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://baltikitchen-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "baltikitchen-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 40,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.94,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/14041.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 52
+},
+{
+"Id": 13578,
+"Name": "Funghi Pizza",
+"Address": "264 Battersea Park Road",
+"Postcode": "SW11 3BP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://funghipizza.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "funghipizza",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 73,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.63,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/13578.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 52
+},
+{
+"Id": 4806,
+"Name": "El Patrino Pizza & Pasta",
+"Address": "155 Battersea High Street",
+"Postcode": "SW11 3JS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://el-patrino.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "el-patrino",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 74,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.61,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/4806.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 332
+},
+{
+"Id": 39047,
+"Name": "Clifton Hot Wok",
+"Address": "118 Acre Lane",
+"Postcode": "SW2 5RA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://cliftonhotwok-sw2.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "cliftonhotwok-sw2",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 61,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.69,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39047.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 27
+},
+{
+"Id": 11140,
+"Name": "Chutney Tandoori",
+"Address": "9 Wilcox Road",
+"Postcode": "SW8 2XA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://chutneytandoori-sw8.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "chutneytandoori-sw8",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 27,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.2,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/11140.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £21",
+"DiscountPercent": "20",
+"QualifyingPrice": "21.00"
+}
+],
+"NumberOfRatings": 419
+},
+{
+"Id": 44411,
+"Name": "Chicken Cottage",
+"Address": "31 Balham Hill",
+"Postcode": "SW12 9DX",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 22,
+"Name": "American",
+"SeoName": null
+},
+{
+"Id": 78,
+"Name": "Burgers",
+"SeoName": null
+}
+],
+"Url": "http://chicken-cottage.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "chicken-cottage",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 101,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.13,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44411.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 39
+},
+{
+"Id": 2394,
+"Name": "Golden City",
+"Address": "162 Battersea Park Road",
+"Postcode": "SW11 4ND",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://golden-city-sw11.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "golden-city-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 58,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.72,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2394.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 329
+},
+{
+"Id": 31940,
+"Name": "Monkeys",
+"Address": "4 Crown Point Parade",
+"Postcode": "SE19 3NG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://monkeys-se19.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "monkeys-se19",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 15,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 5.46,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/31940.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 763
+},
+{
+"Id": 6626,
+"Name": "Barbecue",
+"Address": "83 Battersea Rise",
+"Postcode": "SW11 1HW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 28,
+"Name": "Greek",
+"SeoName": null
+},
+{
+"Id": 52,
+"Name": "Lebanese",
+"SeoName": null
+}
+],
+"Url": "http://barbecue.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "barbecue",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 78,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.53,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/6626.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 577
+},
+{
+"Id": 4740,
+"Name": "Pappadom",
+"Address": "219 Camberwell New Road",
+"Postcode": "SE5 0HG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://pappadom.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "pappadom",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 50,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.81,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/4740.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1421
+},
+{
+"Id": 12986,
+"Name": "Watch Me",
+"Address": "108 Morden road South Wimbledon",
+"Postcode": "SW19 3BP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 68,
+"Name": "Sri-lankan",
+"SeoName": null
+},
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://Watch-Me-SW19.just-eat.co.uk",
+"IsOpenNow": true,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "Watch-Me-SW19",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 102,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.12,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/12986.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 31
+},
+{
+"Id": 18409,
+"Name": "Bamboo Baboom",
+"Address": "Unit 23 55-59 Weir Road",
+"Postcode": "SW19 8UG",
+"City": "Wimbledon",
+"CuisineTypes": [
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+},
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://bamboobaboom-sw19.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": true,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "bamboobaboom-sw19",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 125,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.23,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18409.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1581
+},
+{
+"Id": 7236,
+"Name": "Woondal Indian Home Dining",
+"Address": "5 Ascot Parade",
+"Postcode": "SW4 7EY",
+"City": "Clapham Park",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://woondal-indian-home-dining.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "woondal-indian-home-dining",
+"IsCloseBy": true,
+"IsHalal": true,
+"DefaultDisplayRank": 127,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.31,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/7236.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 167
+},
+{
+"Id": 45203,
+"Name": "Yun Hua",
+"Address": "86 Clapham Park Road",
+"Postcode": "SW4 7BX",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 136,
+"Name": "Oriental",
+"SeoName": null
+}
+],
+"Url": "http://yunhua-sw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "yunhua-sw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 131,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.12,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/45203.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 100
+},
+{
+"Id": 48226,
+"Name": "Papas Piri Piri",
+"Address": "245 Balham High Road",
+"Postcode": "SW17 7BE",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://papaspiripiri-sw17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "papaspiripiri-sw17",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 144,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.35,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48226.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 37
+},
+{
+"Id": 39896,
+"Name": "Man Ho China City",
+"Address": "35 Lavender Hill",
+"Postcode": "SW11 5QW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://manhochinacity-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "manhochinacity-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 185,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.74,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39896.gif"
+}
+],
+"Deals": [
+{
+"Description": "25% off when you spend £25",
+"DiscountPercent": "25",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 309
+},
+{
+"Id": 48554,
+"Name": "KT London",
+"Address": "59 Loughborough Road",
+"Postcode": "SW9 7TB",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://ktlondon-sw9.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "ktlondon-sw9",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 141,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.45,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48554.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 44
+},
+{
+"Id": 27984,
+"Name": "Chinese Buffet",
+"Address": "99 Brixton Hill",
+"Postcode": "SW2 1AA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://chinesebuffet-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "chinesebuffet-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 181,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.76,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27984.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 7
+},
+{
+"Id": 29062,
+"Name": "GC Kitchen",
+"Address": "16 Hildreth Street",
+"Postcode": "SW12 9RQ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://gckitchen-sw12.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "gckitchen-sw12",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 157,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.12,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29062.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 778
+},
+{
+"Id": 891,
+"Name": "Zest of India",
+"Address": "218 Coldharbour lane",
+"Postcode": "SW9 8SA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 50,
+"Name": "Bangladeshi",
+"SeoName": null
+}
+],
+"Url": "http://zest.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "zest",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 162,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.04,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/891.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 247
+},
+{
+"Id": 38974,
+"Name": "Benny's - Collection Only",
+"Address": "30 North Street",
+"Postcode": "SW4 0HD",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 80,
+"Name": "Fish & Chips",
+"SeoName": null
+}
+],
+"Url": "http://bennys-sw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "bennys-sw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 126,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 6,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38974.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 6
+},
+{
+"Id": 47512,
+"Name": "Little Italy",
+"Address": "28 Denbigh Street",
+"Postcode": "SW1V 2ER",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://littleitaly-sw1v.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "littleitaly-sw1v",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 187,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.72,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47512.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 52
+},
+{
+"Id": 17125,
+"Name": "Curry Leaves",
+"Address": "103 Falcon Road",
+"Postcode": "SW11 2PF",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 57,
+"Name": "Nepalese",
+"SeoName": null
+}
+],
+"Url": "http://curryleavessw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "curryleavessw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 153,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.19,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17125.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 68
+},
+{
+"Id": 23469,
+"Name": "Arirang",
+"Address": "5 Cricketers Court",
+"Postcode": "SE11 4RJ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 54,
+"Name": "Korean ",
+"SeoName": null
+}
+],
+"Url": "http://arirang-se11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "arirang-se11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 214,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23469.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 72
+},
+{
+"Id": 36484,
+"Name": "Spice & Herbs",
+"Address": "100 Norwood High Street",
+"Postcode": "SE27 9NH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://spiceherbs-se27.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "spiceherbs-se27",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 142,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.44,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36484.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 384
+},
+{
+"Id": 40765,
+"Name": "Cafe Do Babado",
+"Address": "Unit 16, Drapers House",
+"Postcode": "SE1 6TH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 56,
+"Name": "Brazilian food",
+"SeoName": null
+},
+{
+"Id": 56,
+"Name": "Brazilian food",
+"SeoName": null
+}
+],
+"Url": "http://cafedobabado-se1.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "cafedobabado-se1",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 221,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 0,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40765.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 0
+},
+{
+"Id": 37394,
+"Name": "Dalila",
+"Address": "123 Queenstown Road",
+"Postcode": "SW8 3RH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 52,
+"Name": "Lebanese",
+"SeoName": null
+},
+{
+"Id": 103,
+"Name": "Mediterranean",
+"SeoName": null
+}
+],
+"Url": "http://Dalila-SW8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "Dalila-SW8",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 171,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.9,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/37394.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 56
+},
+{
+"Id": 47541,
+"Name": "Comptoir Mezze",
+"Address": "308 Munster Road",
+"Postcode": "SW6 6BH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 60,
+"Name": "Moroccan",
+"SeoName": null
+},
+{
+"Id": 52,
+"Name": "Lebanese",
+"SeoName": null
+}
+],
+"Url": "http://comptoirmezze-sw6.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "comptoirmezze-sw6",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 201,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.44,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47541.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 6
+},
+{
+"Id": 47541,
+"Name": "Comptoir Mezze",
+"Address": "308 Munster Road",
+"Postcode": "SW6 6BH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 60,
+"Name": "Moroccan",
+"SeoName": null
+},
+{
+"Id": 52,
+"Name": "Lebanese",
+"SeoName": null
+}
+],
+"Url": "http://comptoirmezze-sw6.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "comptoirmezze-sw6",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 201,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.44,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47541.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 6
+},
+{
+"Id": 41054,
+"Name": "Ta-Maki Sushi",
+"Address": "10 Heliport Estate,Bridge court",
+"Postcode": "SW11 3SS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+},
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+}
+],
+"Url": "http://ta-maki-sushi-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "ta-maki-sushi-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 166,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.01,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41054.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 93
+},
+{
+"Id": 17297,
+"Name": "Xiong Mao",
+"Address": "16 London Road Tooting",
+"Postcode": "SW17 9HW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://xiongmaosw17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "xiongmaosw17",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 197,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.55,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17297.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 42
+},
+{
+"Id": 10110,
+"Name": "Mr. Ma",
+"Address": "84 Nunhead Grove",
+"Postcode": "SE15 3LS",
+"City": "Nunhead",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://mrmase15.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "mrmase15",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 196,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.55,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/10110.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 181
+},
+{
+"Id": 28368,
+"Name": "Kohinoor Spice",
+"Address": "73 Sherwood Park Road",
+"Postcode": "CR4 1NB",
+"City": "Mitcham",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://kohinoorspice-cr4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Manual Intervention - Onlined",
+"UniqueName": "kohinoorspice-cr4",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 154,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.19,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28368.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 127
+},
+{
+"Id": 44740,
+"Name": "Roosters Piri Piri",
+"Address": "118 Stretham Hill",
+"Postcode": "SW2 4RS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+},
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+}
+],
+"Url": "http://roosterspiripiri-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "roosterspiripiri-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 152,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.21,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44740.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 47
+},
+{
+"Id": 27366,
+"Name": "Tony's Restaurant & Bar",
+"Address": "28 Brixton Water Lane",
+"Postcode": "SW2 1PE",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 76,
+"Name": "Caribbean",
+"SeoName": null
+},
+{
+"Id": 22,
+"Name": "American",
+"SeoName": null
+}
+],
+"Url": "http://tonysrestaurantandbar-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "tonysrestaurantandbar-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 213,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.01,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27366.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 51
+},
+{
+"Id": 35806,
+"Name": "Kebab Express",
+"Address": "127 Lavender Hill",
+"Postcode": "SW11 5QJ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://kebab-express-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "kebab-express-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 167,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.99,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35806.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 107
+},
+{
+"Id": 27053,
+"Name": "Edwin's Cafe",
+"Address": "249 Northborough Road",
+"Postcode": "SW16 4TR",
+"City": "Norbury",
+"CuisineTypes": [
+{
+"Id": 76,
+"Name": "Caribbean",
+"SeoName": null
+},
+{
+"Id": 38,
+"Name": "Jamaican",
+"SeoName": null
+}
+],
+"Url": "http://edwinscafe-sw16.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "edwinscafe-sw16",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 219,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.69,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27053.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 40
+},
+{
+"Id": 5377,
+"Name": "Forno Pizza",
+"Address": "145-147 Lambeth Walk",
+"Postcode": "SE11 6EE",
+"City": "Lambeth",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://forno-pizza-lambeth.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "forno-pizza-lambeth",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 176,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.81,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5377.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 528
+},
+{
+"Id": 27727,
+"Name": "Papa Johns",
+"Address": "342 Kennington Road",
+"Postcode": "SE11 4LD",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://papajohns-se11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "papajohns-se11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 218,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.71,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27727.gif"
+}
+],
+"Deals": [
+{
+"Description": "25% off when you spend £20",
+"DiscountPercent": "25",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 51
+},
+{
+"Id": 38559,
+"Name": "That's It - Collection Only",
+"Address": "28 Bedford Road",
+"Postcode": "SW4 7HJ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 58,
+"Name": "Portuguese",
+"SeoName": null
+},
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+}
+],
+"Url": "http://thatsit-sw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "thatsit-sw4",
+"IsCloseBy": true,
+"IsHalal": true,
+"DefaultDisplayRank": 137,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 0,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38559.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 0
+},
+{
+"Id": 10351,
+"Name": "Thaicoons Restaurant",
+"Address": "347 Norwood Road",
+"Postcode": "SE27 9BQ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://thaicoons.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "thaicoons",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 190,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.69,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/10351.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 241
+},
+{
+"Id": 23099,
+"Name": "Ministry of Spice",
+"Address": "177 Battersea Park Road",
+"Postcode": "SW8 4LR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://ministryofspice-sw8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "ministryofspice-sw8",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 172,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.89,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23099.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 22
+},
+{
+"Id": 38693,
+"Name": "Pak Hong",
+"Address": "413 Wandsworth Road",
+"Postcode": "SW8 2JP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 80,
+"Name": "Fish & Chips",
+"SeoName": null
+},
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://pakhong-sw8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "pakhong-sw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 182,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.76,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38693.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 68
+},
+{
+"Id": 26041,
+"Name": "Sushi-Me",
+"Address": "11 Hellport Estate",
+"Postcode": "SW11 3SS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+},
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+}
+],
+"Url": "http://sushi-me-nw1.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "sushi-me-nw1",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 156,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.14,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26041.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 66
+},
+{
+"Id": 2897,
+"Name": "Maki Sushi",
+"Address": "39 Lavender Hill",
+"Postcode": "SW11 5QW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+},
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+}
+],
+"Url": "http://Maki-sushi-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "Maki-sushi-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 180,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.76,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2897.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 139
+},
+{
+"Id": 42371,
+"Name": "Tarragon Persian",
+"Address": "43 Lavender Hill",
+"Postcode": "SW11 5QW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 62,
+"Name": "Iranian",
+"SeoName": null
+}
+],
+"Url": "http://TARRAGONPERSIAN-SW11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "TARRAGONPERSIAN-SW11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 177,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.8,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42371.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 37
+},
+{
+"Id": 24135,
+"Name": "Pronto Restaurant",
+"Address": "8 Portland Road",
+"Postcode": "SE25 4PF",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 97,
+"Name": "African",
+"SeoName": null
+}
+],
+"Url": "http://pronto-se25.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "pronto-se25",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 198,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.5,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/24135.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 41
+},
+{
+"Id": 39569,
+"Name": "Red Spice",
+"Address": "91 Landor Road",
+"Postcode": "SW9 9RT",
+"City": "Stockwell",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://red-spice-sw9-1.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "red-spice-sw9-1",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 155,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.17,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39569.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 154
+},
+{
+"Id": 15402,
+"Name": "Oriental Chef",
+"Address": "251 Mitham Lane",
+"Postcode": "SW16 6QB",
+"City": "Wandsworth",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 55,
+"Name": "Malaysian ",
+"SeoName": null
+}
+],
+"Url": "http://orientalchefsw16.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "orientalchefsw16",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 208,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.25,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/15402.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 258
+},
+{
+"Id": 1685,
+"Name": "Ali Baba",
+"Address": "12 Trinity Road",
+"Postcode": "SW17 7RE",
+"City": "Tooting",
+"CuisineTypes": [
+{
+"Id": 25,
+"Name": "Turkish",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://alibabameze.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "alibabameze",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 158,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.1,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1685.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 370
+},
+{
+"Id": 42068,
+"Name": "Tumnan Thai",
+"Address": "163 Lavender Hill",
+"Postcode": "SW11 5QH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://tumnanthai-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "tumnanthai-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 173,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.88,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42068.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 108
+},
+{
+"Id": 37345,
+"Name": "Savannah Carribean Takeaway",
+"Address": "14 Clapham High Street",
+"Postcode": "SW4 7UT",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 76,
+"Name": "Caribbean",
+"SeoName": null
+}
+],
+"Url": "http://savannahcaribbean-sw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "savannahcaribbean-sw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 136,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.67,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/37345.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1
+},
+{
+"Id": 7755,
+"Name": "Varanasi Chefs",
+"Address": "142 Battersea High Street",
+"Postcode": "SW11 3JR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://varanasi-chefs.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "varanasi-chefs",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 175,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.85,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/7755.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 48
+},
+{
+"Id": 44167,
+"Name": "Big Fat Gourmet",
+"Address": "585 Wandsworth Road",
+"Postcode": "SW8 3JD",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 78,
+"Name": "Burgers",
+"SeoName": null
+},
+{
+"Id": 88,
+"Name": "Gourmet",
+"SeoName": null
+}
+],
+"Url": "http://bigfatgourmet-sw8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "bigfatgourmet-sw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 168,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.99,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44167.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 134
+},
+{
+"Id": 27953,
+"Name": "Charcoal Grill Express",
+"Address": "77 Acre Lane London",
+"Postcode": "SW2 5TN",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 25,
+"Name": "Turkish",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://charcoalgrill-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "charcoalgrill-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 165,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.02,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27953.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 63
+},
+{
+"Id": 39280,
+"Name": "Clifton Taste of Italy",
+"Address": "242 Balham High Road",
+"Postcode": "SW17 7AW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://cliftonitaly-sw17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "cliftonitaly-sw17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 147,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.28,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39280.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 34
+},
+{
+"Id": 29802,
+"Name": "Troy BBQ",
+"Address": "96 Streatham Hill",
+"Postcode": "SW2 4RD",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+},
+{
+"Id": 25,
+"Name": "Turkish",
+"SeoName": null
+}
+],
+"Url": "http://troybbq-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "troybbq-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 163,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.03,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29802.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 111
+},
+{
+"Id": 29552,
+"Name": "Clifton Curry Express",
+"Address": "242 Balham High Road",
+"Postcode": "SW17 7AW",
+"City": "Balham",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 118,
+"Name": "Grill",
+"SeoName": null
+}
+],
+"Url": "http://cliftoncurry-SW17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "cliftoncurry-SW17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 150,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.24,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29552.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 92
+},
+{
+"Id": 30944,
+"Name": "Rotisserie De Paris",
+"Address": "7 Bellevue Road",
+"Postcode": "SW17 7EG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 24,
+"Name": "French",
+"SeoName": null
+},
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+}
+],
+"Url": "http://rotisseriedeparis-sw17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "rotisseriedeparis-sw17",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 191,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.68,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/30944.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 63
+},
+{
+"Id": 38858,
+"Name": "Wang Fa",
+"Address": "208 Coldharbour Lane, Brixton",
+"Postcode": "SW9 8SA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+}
+],
+"Url": "http://wang-fa-sw9.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "wang-fa-sw9",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 179,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.78,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38858.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 179
+},
+{
+"Id": 892,
+"Name": "Baan Thai",
+"Address": "401 Coldharbour lane",
+"Postcode": "SW9 8LQ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://baanthai.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "baanthai",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 215,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.99,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/892.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 117
+},
+{
+"Id": 41405,
+"Name": "At Wan Da",
+"Address": "24 Milkwood Road",
+"Postcode": "SE24 0HH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://atwanda-se24.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "atwanda-se24",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 203,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.41,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41405.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 33
+},
+{
+"Id": 47012,
+"Name": "Traditional Fish Bar",
+"Address": "107 Mitcham Lane",
+"Postcode": "SW16 6LY",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 80,
+"Name": "Fish & Chips",
+"SeoName": null
+},
+{
+"Id": 78,
+"Name": "Burgers",
+"SeoName": null
+}
+],
+"Url": "http://traditionalfishbar-sw16.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "traditionalfishbar-sw16",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 188,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.71,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47012.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 36
+},
+{
+"Id": 47063,
+"Name": "Papa Johns - Clapham",
+"Address": "207 Clapham Park Road",
+"Postcode": "SW4 7EX",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+}
+],
+"Url": "http://papajohns-sw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "papajohns-sw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 134,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.22,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47063.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 6
+},
+{
+"Id": 6451,
+"Name": "Curry Leaf",
+"Address": "135A St. John's Hill",
+"Postcode": "SW11 1TD",
+"City": "Clapham",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://curry-leaf.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "curry-leaf",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 161,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.05,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/6451.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 65
+},
+{
+"Id": 2621,
+"Name": "Noodle Express",
+"Address": "47 Trinity Road",
+"Postcode": "SW17 7SD",
+"City": "Wandsworth",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+},
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+}
+],
+"Url": "http://noodle-express.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "noodle-express",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 184,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.74,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2621.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 507
+},
+{
+"Id": 36849,
+"Name": "Bollywood Dreams",
+"Address": "72 Clapham Park Road",
+"Postcode": "SW4 7BX",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 50,
+"Name": "Bangladeshi",
+"SeoName": null
+}
+],
+"Url": "http://bollywooddreams-sw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "bollywooddreams-sw4",
+"IsCloseBy": true,
+"IsHalal": true,
+"DefaultDisplayRank": 129,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.28,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36849.gif"
+}
+],
+"Deals": [
+{
+"Description": "25% off when you spend £20",
+"DiscountPercent": "25",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 218
+},
+{
+"Id": 39247,
+"Name": "Kennington Tandoori",
+"Address": "313 Kennington Road",
+"Postcode": "SE11 4QE",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 118,
+"Name": "Grill",
+"SeoName": null
+}
+],
+"Url": "http://kenningtontandoori-se11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "kenningtontandoori-se11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 169,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.98,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39247.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 248
+},
+{
+"Id": 40708,
+"Name": "Shalamar Chicken & Pizza",
+"Address": "3 The Pavement, Clapham Common",
+"Postcode": "SW4 0HY",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+},
+{
+"Id": 78,
+"Name": "Burgers",
+"SeoName": null
+}
+],
+"Url": "http://shalamarchickenandpizza-sw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "shalamarchickenandpizza-sw4",
+"IsCloseBy": true,
+"IsHalal": true,
+"DefaultDisplayRank": 132,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.74,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40708.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 48
+},
+{
+"Id": 45543,
+"Name": "New Bombay Bicycle Chef",
+"Address": "28 Queenstown Road",
+"Postcode": "SW8 3RX",
+"City": "Greater London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://newbombaybicyclechef-sw8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "newbombaybicyclechef-sw8",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 189,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.7,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/45543.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 9
+},
+{
+"Id": 17337,
+"Name": "Mori",
+"Address": "99 Kings Road",
+"Postcode": "SW3 4PA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+},
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+}
+],
+"Url": "http://mori-sw3.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Manual Intervention - Onlined",
+"UniqueName": "mori-sw3",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 216,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.87,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17337.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 20
+},
+{
+"Id": 27422,
+"Name": "Mumbai Delight",
+"Address": "51A South Lambeth Road",
+"Postcode": "SW8 1RH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://mumbaidelight-sw8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "mumbaidelight-sw8",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 145,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.34,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27422.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 215
+},
+{
+"Id": 48252,
+"Name": "Luanda Grill",
+"Address": "256 Brixton Hill",
+"Postcode": "SW2 1HF",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 118,
+"Name": "Grill",
+"SeoName": null
+},
+{
+"Id": 93,
+"Name": "Peri Peri",
+"SeoName": null
+}
+],
+"Url": "http://luadagrill-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "luadagrill-sw2",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 222,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 0,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48252.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 0
+},
+{
+"Id": 24114,
+"Name": "Amirah's Kitchen",
+"Address": "356 Old York Road",
+"Postcode": "SW18 1SS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 37,
+"Name": "Pakistani",
+"SeoName": null
+}
+],
+"Url": "http://amirahskitchen-sw18.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "amirahskitchen-sw18",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 149,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.24,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/24114.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 35
+},
+{
+"Id": 34692,
+"Name": "Krua",
+"Address": "90 Bedford hill",
+"Postcode": "SW12 9HR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://krua-sw12.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "krua-sw12",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 195,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.57,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34692.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 69
+},
+{
+"Id": 40313,
+"Name": "Light of Gurkha",
+"Address": "88 Balham High Road",
+"Postcode": "SW12 9AG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 57,
+"Name": "Nepalese",
+"SeoName": null
+}
+],
+"Url": "http://lightofgurkha-sw12.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "lightofgurkha-sw12",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 204,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.38,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40313.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 7
+},
+{
+"Id": 32598,
+"Name": "Kalesa Restaurant",
+"Address": "59 Lavender Hill",
+"Postcode": "SW11 5QN",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 71,
+"Name": "Filipino",
+"SeoName": null
+}
+],
+"Url": "http://kalesarestaurant-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "kalesarestaurant-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 138,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 6,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/32598.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1
+},
+{
+"Id": 41368,
+"Name": "Rajah Rowing Team",
+"Address": "238 Balham High Road",
+"Postcode": "SW17 7AW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://rajahrowingteam-sw17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "rajahrowingteam-sw17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 160,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.06,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41368.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 36
+},
+{
+"Id": 20523,
+"Name": "Indian Nites",
+"Address": "6 Sunnyhill Road",
+"Postcode": "SW16 2UH",
+"City": "Streatham",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://indian-nites-sw16.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "indian-nites-sw16",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 143,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.39,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20523.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 277
+},
+{
+"Id": 10727,
+"Name": "Mango Curry of India",
+"Address": "36B North Street",
+"Postcode": "SW4 0HD",
+"City": "Clapham",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://mangotreesw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "mangotreesw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 130,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.27,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/10727.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 563
+},
+{
+"Id": 2389,
+"Name": "Piccante",
+"Address": "15 Glenville Mews",
+"Postcode": "SW18 4NJ",
+"City": "Wandsworth",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://piccante.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "piccante",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 174,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.86,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2389.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 189
+},
+{
+"Id": 27364,
+"Name": "All Welcome",
+"Address": "152 Battersea Bridge Road",
+"Postcode": "SW11 3AW",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://allwelcome-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "allwelcome-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 206,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.3,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27364.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 11
+},
+{
+"Id": 20297,
+"Name": "Istanbul Kebab House",
+"Address": "19 Upper Tooting Road",
+"Postcode": "SW17 7TS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 25,
+"Name": "Turkish",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://istanbulkebabhouse-sw17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "istanbulkebabhouse-sw17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 178,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.78,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20297.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 132
+},
+{
+"Id": 28692,
+"Name": "Sushi Express LTD",
+"Address": "348 Ground Floor, Battersea Park Road",
+"Postcode": "SW11 3BY",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+},
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+}
+],
+"Url": "http://sushiexpressltd-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "sushiexpressltd-sw11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 148,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.26,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28692.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 523
+},
+{
+"Id": 26429,
+"Name": "Lal Baag",
+"Address": "8 Knights Hill",
+"Postcode": "SE27 0HY",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://lal-baag-se27.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "lal-baag-se27",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 139,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.48,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26429.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 108
+},
+{
+"Id": 29542,
+"Name": "Red Dragon",
+"Address": "381 Kennington Lane",
+"Postcode": "SE11 5QY",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://reddragon-se11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "reddragon-se11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 210,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.14,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29542.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 94
+},
+{
+"Id": 28745,
+"Name": "Sunny Pizza & Chicken",
+"Address": "81 East Street",
+"Postcode": "SE17 2DH",
+"City": "Southwark",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://Sunny-Pizza-and-Chicken-SE17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "Sunny-Pizza-and-Chicken-SE17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 207,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.26,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28745.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £12",
+"DiscountPercent": "20",
+"QualifyingPrice": "12.00"
+}
+],
+"NumberOfRatings": 28
+},
+{
+"Id": 148,
+"Name": "Taj Mahal",
+"Address": "11A Leigham Court Road",
+"Postcode": "SW16 2ND",
+"City": "Streatham",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://tajmahal.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "tajmahal",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 211,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.1,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/148.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 80
+},
+{
+"Id": 28146,
+"Name": "Sushi Cafe",
+"Address": "555 Battersea Park Road",
+"Postcode": "SW11 3BL",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+}
+],
+"Url": "http://sushicafe-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "sushicafe-sw11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 217,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.75,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28146.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 8
+},
+{
+"Id": 35703,
+"Name": "Ale & Spice",
+"Address": "104 Bedford Hill",
+"Postcode": "SW12 9HR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 68,
+"Name": "Sri-lankan",
+"SeoName": null
+}
+],
+"Url": "http://aleandspice-sw12.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "aleandspice-sw12",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 140,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.46,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35703.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 24
+},
+{
+"Id": 24584,
+"Name": "Steakout - Collection Only",
+"Address": "1443 London Road",
+"Postcode": "SW16 4AQ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 22,
+"Name": "American",
+"SeoName": null
+}
+],
+"Url": "http://steakout-sw16.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "steakout-sw16",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 220,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 0,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/24584.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 0
+},
+{
+"Id": 22015,
+"Name": "Lucky Star",
+"Address": "10 Brixton Road",
+"Postcode": "SW9 6BU",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://LuckyStar-SW9.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "LuckyStar-SW9",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 186,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.72,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22015.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 70
+},
+{
+"Id": 19711,
+"Name": "Cumin Club",
+"Address": "95 Hambalt Road",
+"Postcode": "SW4 9EQ",
+"City": "South West London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://cuminclubsw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "cuminclubsw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 128,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.29,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19711.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 223
+},
+{
+"Id": 36612,
+"Name": "Norwood Tandoori",
+"Address": "12 Norwood Road",
+"Postcode": "SE24 9BH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://norwoodtandoori-se24.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "norwoodtandoori-se24",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 146,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.32,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36612.gif"
+}
+],
+"Deals": [
+{
+"Description": "25% off when you spend £21",
+"DiscountPercent": "25",
+"QualifyingPrice": "21.00"
+}
+],
+"NumberOfRatings": 185
+},
+{
+"Id": 42465,
+"Name": "Chinese Kitchen",
+"Address": "37 Falcon Road, Battersea, Wandsworth",
+"Postcode": "SW11 2PH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://chinesekitchen-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "chinesekitchen-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 192,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.64,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42465.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 28
+},
+{
+"Id": 23204,
+"Name": "Bento",
+"Address": "70 Clapham Park Road",
+"Postcode": "SW4 7BX",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+},
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://Bento-SW4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "Bento-SW4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 135,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.17,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23204.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 69
+},
+{
+"Id": 16752,
+"Name": "Wing Fu",
+"Address": "282 Brixton Hill",
+"Postcode": "SW2 1HT",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://wingfusw21ht.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "wingfusw21ht",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 183,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.75,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/16752.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 154
+},
+{
+"Id": 28144,
+"Name": "The Singha Express",
+"Address": "326 Garratt Lane, Earlsfield",
+"Postcode": "SW18 4EJ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://thesinghaexpress-sw18.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "",
+"UniqueName": "thesinghaexpress-sw18",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 193,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.63,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28144.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 225
+},
+{
+"Id": 38028,
+"Name": "Park Side Cafe",
+"Address": "14 Norwood Road",
+"Postcode": "SE24 9BH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 92,
+"Name": "Breakfast",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://parksidecafe-se24.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "parksidecafe-se24",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 209,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.2,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38028.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 25
+},
+{
+"Id": 26072,
+"Name": "Lara's Kebab Grill",
+"Address": "14 Norwood Road",
+"Postcode": "SE24 9BH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 25,
+"Name": "Turkish",
+"SeoName": null
+},
+{
+"Id": 81,
+"Name": "Kebab",
+"SeoName": null
+}
+],
+"Url": "http://laraskebabgrill-se24.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "laraskebabgrill-se24",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 194,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.6,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26072.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 130
+},
+{
+"Id": 33257,
+"Name": "Tsunami",
+"Address": "5-7 Voltaire Road",
+"Postcode": "SW4 6DQ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+}
+],
+"Url": "http://tsunami-sw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "tsunami-sw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 133,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.68,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/33257.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 23
+},
+{
+"Id": 17386,
+"Name": "Happy Family",
+"Address": "311 Kenington Road",
+"Postcode": "SE11 4QE",
+"City": "Kennington",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://happyfamily.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "happyfamily",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 205,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.34,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17386.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 105
+},
+{
+"Id": 27648,
+"Name": "Dalcha",
+"Address": "636 Fulham Road",
+"Postcode": "SW6 5RT",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://dalcha-sw6.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "dalcha-sw6",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 199,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.46,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27648.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £25",
+"DiscountPercent": "20",
+"QualifyingPrice": "25.00"
+}
+],
+"NumberOfRatings": 16
+},
+{
+"Id": 34746,
+"Name": "Ten Thanks",
+"Address": "31 Upper Tulse Hill",
+"Postcode": "SW2 2SD",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://ten-thanks-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "NONE",
+"UniqueName": "ten-thanks-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 170,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.96,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34746.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 310
+},
+{
+"Id": 27722,
+"Name": "Papa Johns",
+"Address": "344 Battersea Park Road",
+"Postcode": "SW11 3BY",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://papajohns-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "papajohns-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 212,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.02,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27722.gif"
+}
+],
+"Deals": [
+{
+"Description": "25% off when you spend £20",
+"DiscountPercent": "25",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 19
+},
+{
+"Id": 17357,
+"Name": "Paya",
+"Address": "270a Brixton Hill",
+"Postcode": "SW2 1HP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://paya-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "paya-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 200,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.45,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17357.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 151
+},
+{
+"Id": 9291,
+"Name": "Saffron Takeaway",
+"Address": "184 Tulse Hill Road",
+"Postcode": "SW2 3BU",
+"City": "Norwood",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 57,
+"Name": "Nepalese",
+"SeoName": null
+}
+],
+"Url": "http://saffron-restaurant-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "TOL:None",
+"UniqueName": "saffron-restaurant-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 159,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.09,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/9291.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 153
+},
+{
+"Id": 31433,
+"Name": "Bombay Dine Club",
+"Address": "133 Lavender Hill, Battersea",
+"Postcode": "SW11 5QJ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 57,
+"Name": "Nepalese",
+"SeoName": null
+}
+],
+"Url": "http://bombay-dinesw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "bombay-dinesw11",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 151,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.24,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/31433.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 119
+},
+{
+"Id": 4916,
+"Name": "Little House Chinese Restaurant",
+"Address": "545 Battersea Park Road",
+"Postcode": "SW11 3BL",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+},
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://little-house.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": false,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+"UniqueName": "little-house",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 164,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.02,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/4916.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 312
+},
+{
+"Id": 24617,
+"Name": "Steakout",
+"Address": "116 Upper Tooting Road",
+"Postcode": "SW17 7EN",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 22,
+"Name": "American",
+"SeoName": null
+}
+],
+"Url": "http://steakout-sw17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+"UniqueName": "steakout-sw17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 224,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 6,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/24617.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 1
+},
+{
+"Id": 17295,
+"Name": "Big Fat Panda",
+"Address": "281 Lavender Hill",
+"Postcode": "SW11 1LP",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 33,
+"Name": "Chinese",
+"SeoName": null
+}
+],
+"Url": "http://bigfatpanda.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Closed today",
+"UniqueName": "bigfatpanda",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 239,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.04,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17295.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 16
+},
+{
+"Id": 7006,
+"Name": "Fabulous Chicken & Pizza",
+"Address": "18 Mitcham Lane",
+"Postcode": "SW16 6NN",
+"City": "Streatham",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://fabulous-pizza-chicken.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Closed today",
+"UniqueName": "fabulous-pizza-chicken",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 241,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.83,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/7006.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 136
+},
+{
+"Id": 29697,
+"Name": "Flavas",
+"Address": "65 Bedford Hill",
+"Postcode": "SW12 9HA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 22,
+"Name": "American",
+"SeoName": null
+}
+],
+"Url": "http://flavas-sw12.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "TOL:TempOffline",
+"UniqueName": "flavas-sw12",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 243,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.33,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29697.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 74
+},
+{
+"Id": 17280,
+"Name": "Indian Flavours",
+"Address": "5 Clapham High Street",
+"Postcode": "SW4 7TS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://indianflavourssw4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "TOL:NoTrOverride",
+"UniqueName": "indianflavourssw4",
+"IsCloseBy": true,
+"IsHalal": false,
+"DefaultDisplayRank": 223,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.44,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17280.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 9
+},
+{
+"Id": 34938,
+"Name": "Bangkok Boulevard",
+"Address": "87 Lavender Hill",
+"Postcode": "SW11 5QL",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 30,
+"Name": "Thai",
+"SeoName": null
+}
+],
+"Url": "http://bangkokboulevard-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "TOL:TempOffline",
+"UniqueName": "bangkokboulevard-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 228,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.98,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34938.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 167
+},
+{
+"Id": 48352,
+"Name": "El Chingon@Hootananny Brixton",
+"Address": "95 Effra Roa",
+"Postcode": "SW2 1DF",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 88,
+"Name": "Gourmet",
+"SeoName": null
+},
+{
+"Id": 23,
+"Name": "Mexican",
+"SeoName": null
+}
+],
+"Url": "http://elchingdonathootananny-sw2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+"UniqueName": "elchingdonathootananny-sw2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 230,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.91,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48352.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 57
+},
+{
+"Id": 39016,
+"Name": "The Naz",
+"Address": "153 Battersea Park Road",
+"Postcode": "SW8 4BX",
+"City": "Greater London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 50,
+"Name": "Bangladeshi",
+"SeoName": null
+}
+],
+"Url": "http://thenaz-sw8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "TOL:TempOffline",
+"UniqueName": "thenaz-sw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 231,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.9,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39016.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £30",
+"DiscountPercent": "20",
+"QualifyingPrice": "30.00"
+}
+],
+"NumberOfRatings": 17
+},
+{
+"Id": 36756,
+"Name": "Steak House",
+"Address": "298 Crown Street",
+"Postcode": "SE5 0UR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 118,
+"Name": "Grill",
+"SeoName": null
+},
+{
+"Id": 88,
+"Name": "Gourmet",
+"SeoName": null
+}
+],
+"Url": "http://steakhouse-se5.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+"UniqueName": "steakhouse-se5",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 237,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.69,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36756.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 153
+},
+{
+"Id": 1178,
+"Name": "Indian Room",
+"Address": "59 Bedford Hill, Balham",
+"Postcode": "SW12 9EZ",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://indianroom.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "TOL:TempOffline",
+"UniqueName": "indianroom",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 240,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 3.86,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1178.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 43
+},
+{
+"Id": 40942,
+"Name": "Subarashii",
+"Address": "117 Wyndham Road",
+"Postcode": "SE5 0UB",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+},
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+}
+],
+"Url": "http://subarashii-se5-2.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Closed today",
+"UniqueName": "subarashii-se5-2",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 235,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.77,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40942.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 101
+},
+{
+"Id": 32872,
+"Name": "Rayyans",
+"Address": "169-171 Mitcham Road",
+"Postcode": "SW17 9PG",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+},
+{
+"Id": 85,
+"Name": "Curry",
+"SeoName": null
+}
+],
+"Url": "http://rayyans-sw17.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+"UniqueName": "rayyans-sw17",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 226,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.09,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/32872.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 91
+},
+{
+"Id": 33333,
+"Name": "Battersea Rickshaw",
+"Address": "15-16 Battersea Square",
+"Postcode": "SW11 3RA",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 31,
+"Name": "Indian",
+"SeoName": null
+}
+],
+"Url": "http://battersearickshaw-sw11.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+"UniqueName": "battersearickshaw-sw11",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 236,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.76,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/33333.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 7
+},
+{
+"Id": 29122,
+"Name": "Caminata",
+"Address": "96 Bedford Hill",
+"Postcode": "SW12 9HR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+}
+],
+"Url": "http://caminata-sw12.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+"UniqueName": "caminata-sw12",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 225,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.21,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29122.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 80
+},
+{
+"Id": 29751,
+"Name": "Pasha Kazakh Kyrgyz House",
+"Address": "158 Camberwell Road",
+"Postcode": "SE5 0EE",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 61,
+"Name": "Russian",
+"SeoName": null
+},
+{
+"Id": 25,
+"Name": "Turkish",
+"SeoName": null
+}
+],
+"Url": "http://pasha-se5.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+"UniqueName": "pasha-se5",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 229,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.93,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29751.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 187
+},
+{
+"Id": 34438,
+"Name": "Star Sushi",
+"Address": "45a South Lambeth Place",
+"Postcode": "SW8 1SR",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+},
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+}
+],
+"Url": "http://starsushi-sw8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Closed today",
+"UniqueName": "starsushi-sw8",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 234,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.83,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34438.gif"
+}
+],
+"Deals": [
+{
+"Description": "20% off when you spend £20",
+"DiscountPercent": "20",
+"QualifyingPrice": "20.00"
+}
+],
+"NumberOfRatings": 54
+},
+{
+"Id": 41245,
+"Name": "Sushi Time",
+"Address": "Unit 126 99-103 Lomond Grove",
+"Postcode": "SE5 7HN",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 35,
+"Name": "Japanese",
+"SeoName": null
+},
+{
+"Id": 83,
+"Name": "Sushi",
+"SeoName": null
+}
+],
+"Url": "http://sushitime-se5.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Closed today",
+"UniqueName": "sushitime-se5",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 233,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.85,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41245.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 378
+},
+{
+"Id": 48602,
+"Name": "Cafe Ali Baba",
+"Address": "10 South Lodge Avenue",
+"Postcode": "CR4 1LU",
+"City": "Mitcham",
+"CuisineTypes": [
+{
+"Id": 82,
+"Name": "Pizza",
+"SeoName": null
+},
+{
+"Id": 90,
+"Name": "Sandwiches",
+"SeoName": null
+}
+],
+"Url": "http://cafealibaba-cr4.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "TOL:TempOffline",
+"UniqueName": "cafealibaba-cr4",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 244,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 0,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48602.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 0
+},
+{
+"Id": 36739,
+"Name": "Muzo Perle",
+"Address": "158 Camberwell Road",
+"Postcode": "SE5 0EE",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 27,
+"Name": "Italian",
+"SeoName": null
+},
+{
+"Id": 120,
+"Name": "Pasta",
+"SeoName": null
+}
+],
+"Url": "http://muzoperle-se5.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+"UniqueName": "muzoperle-se5",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 238,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 4.56,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36739.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 114
+},
+{
+"Id": 38958,
+"Name": "Big Mouth BBQ",
+"Address": "Unit 20C 15-17 Ingate Place",
+"Postcode": "SW8 3NS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 22,
+"Name": "American",
+"SeoName": null
+},
+{
+"Id": 88,
+"Name": "Gourmet",
+"SeoName": null
+}
+],
+"Url": "http://bigmouth-sw8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Closed today",
+"UniqueName": "bigmouth-sw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 227,
+"IsOpenNowForDelivery": true,
+"IsOpenNowForCollection": false,
+"RatingStars": 5.01,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38958.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 411
+},
+{
+"Id": 41146,
+"Name": "Morley's",
+"Address": "242 Brixton Road",
+"Postcode": "SW9 6AH",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 79,
+"Name": "Chicken",
+"SeoName": null
+},
+{
+"Id": 78,
+"Name": "Burgers",
+"SeoName": null
+}
+],
+"Url": "http://morleys-sw9.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+"UniqueName": "morleys-sw9",
+"IsCloseBy": false,
+"IsHalal": true,
+"DefaultDisplayRank": 242,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": true,
+"RatingStars": 3.45,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41146.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 78
+},
+{
+"Id": 42935,
+"Name": "Big Mama's Burrito",
+"Address": "Unit 20C 15-17 Ingate Place",
+"Postcode": "SW8 3NS",
+"City": "London",
+"CuisineTypes": [
+{
+"Id": 23,
+"Name": "Mexican",
+"SeoName": null
+},
+{
+"Id": 141,
+"Name": "Burritos",
+"SeoName": null
+}
+],
+"Url": "http://bigmamasburrito-sw8.just-eat.co.uk",
+"IsOpenNow": false,
+"IsSponsored": false,
+"IsNew": false,
+"IsTemporarilyOffline": true,
+"ReasonWhyTemporarilyOffline": "Closed today",
+"UniqueName": "bigmamasburrito-sw8",
+"IsCloseBy": false,
+"IsHalal": false,
+"DefaultDisplayRank": 232,
+"IsOpenNowForDelivery": false,
+"IsOpenNowForCollection": false,
+"RatingStars": 4.9,
+"Logo": [
+{
+"StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42935.gif"
+}
+],
+"Deals": [],
+"NumberOfRatings": 63
+}
+]
