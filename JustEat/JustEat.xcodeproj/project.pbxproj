@@ -31,6 +31,8 @@
 		75C6F15C1AED847B00D333DD /* JECuisine.m in Sources */ = {isa = PBXBuildFile; fileRef = 75C6F15B1AED847B00D333DD /* JECuisine.m */; };
 		75C6F1611AED8E8100D333DD /* JERestaurantTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 75C6F15F1AED8E8100D333DD /* JERestaurantTableViewCell.m */; };
 		75C6F1621AED8E8100D333DD /* JERestaurantTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 75C6F1601AED8E8100D333DD /* JERestaurantTableViewCell.xib */; };
+		C9AA379B1B3833B400F9F606 /* JERestaurantsDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = C9AA379A1B3833B400F9F606 /* JERestaurantsDataSource.m */; };
+		C9AA379E1B38365200F9F606 /* JERestaurantsDataSourceDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C9AA379D1B38365200F9F606 /* JERestaurantsDataSourceDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +86,10 @@
 		75C6F15F1AED8E8100D333DD /* JERestaurantTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JERestaurantTableViewCell.m; sourceTree = "<group>"; };
 		75C6F1601AED8E8100D333DD /* JERestaurantTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JERestaurantTableViewCell.xib; sourceTree = "<group>"; };
 		B5126728CF4E8BBADEC5159B /* Pods-JustEat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JustEat.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JustEat/Pods-JustEat.debug.xcconfig"; sourceTree = "<group>"; };
+		C9AA37991B3833B400F9F606 /* JERestaurantsDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JERestaurantsDataSource.h; sourceTree = "<group>"; };
+		C9AA379A1B3833B400F9F606 /* JERestaurantsDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JERestaurantsDataSource.m; sourceTree = "<group>"; };
+		C9AA379C1B38365200F9F606 /* JERestaurantsDataSourceDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JERestaurantsDataSourceDelegate.h; sourceTree = "<group>"; };
+		C9AA379D1B38365200F9F606 /* JERestaurantsDataSourceDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JERestaurantsDataSourceDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +164,8 @@
 		75C6F1151AED1DF800D333DD /* JustEat */ = {
 			isa = PBXGroup;
 			children = (
+				C9AA37971B3832AB00F9F606 /* DataSource */,
+				C9AA37981B3832C800F9F606 /* DataSourceDelegates */,
 				75C6F11A1AED1DF800D333DD /* AppDelegate.h */,
 				75C6F11B1AED1DF800D333DD /* AppDelegate.m */,
 				75B23D6B1AEE7C4500E3DDF7 /* JEFlowManager.h */,
@@ -262,6 +270,24 @@
 				75C6F1601AED8E8100D333DD /* JERestaurantTableViewCell.xib */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		C9AA37971B3832AB00F9F606 /* DataSource */ = {
+			isa = PBXGroup;
+			children = (
+				C9AA37991B3833B400F9F606 /* JERestaurantsDataSource.h */,
+				C9AA379A1B3833B400F9F606 /* JERestaurantsDataSource.m */,
+			);
+			path = DataSource;
+			sourceTree = "<group>";
+		};
+		C9AA37981B3832C800F9F606 /* DataSourceDelegates */ = {
+			isa = PBXGroup;
+			children = (
+				C9AA379C1B38365200F9F606 /* JERestaurantsDataSourceDelegate.h */,
+				C9AA379D1B38365200F9F606 /* JERestaurantsDataSourceDelegate.m */,
+			);
+			path = DataSourceDelegates;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -415,6 +441,8 @@
 				75B23D6D1AEE7C4500E3DDF7 /* JEFlowManager.m in Sources */,
 				75C6F15C1AED847B00D333DD /* JECuisine.m in Sources */,
 				75C6F14E1AED273200D333DD /* JERestaurantsListViewController.m in Sources */,
+				C9AA379B1B3833B400F9F606 /* JERestaurantsDataSource.m in Sources */,
+				C9AA379E1B38365200F9F606 /* JERestaurantsDataSourceDelegate.m in Sources */,
 				75C6F1191AED1DF800D333DD /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
